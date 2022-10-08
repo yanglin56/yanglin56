@@ -1,8 +1,16 @@
 ### Hi there 👋
-![decription](https://img.shields.io/badge/tools-pycharm-green)
-![Visitor Count](https://profile-counter.glitch.me/yanglin56/count.svg)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yanglin56)](https://github.com/yanglin56/github-readme-stats)
-![yanglin56's GitHub stats](https://github-readme-stats.vercel.app/api?username=yanglin56&show_icons=true&theme=tokyonight)
+![decription](https://img.shields.io/badge/tools-pycharm-green)![decription](https://img.shields.io/badge/tools-pycharm-green)![decription](https://img.shields.io/badge/tools-pycharm-green)![decription](https://img.shields.io/badge/tools-pycharm-green)
+
+## 🌠[Coding Time](https://wakatime.com/@yanglin56)
+> the projects I'm working on
+
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yanglin56&hide=html,css,Jupyter+Notebook,ruby,javascript&theme=calm&langs_count=6) -->
+<!-- ![My stats](https://github-readme-stats.vercel.app/api?username=yanglin56&theme=calm&show_icons=true) -->
+
+<div>
+    <img height="165" align="left" src="https://github-readme-stats.vercel.app/api?username=yanglin56&theme=calm&show_icons=true" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yanglin56&hide=html,css,Jupyter+Notebook,ruby,javascript&theme=calm&langs_count=6&layout=compact" />
+</div>
 
 <!--
 **yanglin56/yanglin56** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
