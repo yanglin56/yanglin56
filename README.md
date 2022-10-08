@@ -1,4 +1,8 @@
 ### Hi there 👋
+![decription](https://img.shields.io/badge/tools-pycharm-green)
+![Visitor Count](https://profile-counter.glitch.me/yanglin56/count.svg)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yanglin56)](https://github.com/yanglin56/github-readme-stats)
+![yanglin56's GitHub stats](https://github-readme-stats.vercel.app/api?username=yanglin56&show_icons=true&theme=tokyonight)
 
 <!--
 **yanglin56/yanglin56** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
