@@ -1,7 +1,7 @@
 ### Hi there 👋
 ![decription](https://img.shields.io/badge/tools-pycharm-green)![decription](https://img.shields.io/badge/tools-pycharm-green)![decription](https://img.shields.io/badge/tools-pycharm-green)![decription](https://img.shields.io/badge/tools-pycharm-green)
 
-## 🌠[Coding Time](https://wakatime.com/@yanglin56)
+## 🌠Coding Time
 > the projects I'm working on
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yanglin56&hide=html,css,Jupyter+Notebook,ruby,javascript&theme=calm&langs_count=6) -->
