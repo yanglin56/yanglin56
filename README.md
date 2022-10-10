@@ -1,9 +1,9 @@
-### Hi there 👋
 ![decription](https://img.shields.io/badge/5-HTML5-green)
 ![decription](https://img.shields.io/badge/3-CSS3-green)
 ![decription](https://img.shields.io/badge/js-JavaScript-green)
 ![decription](https://img.shields.io/badge/TS-TypeScript-green)
 
+### Hi there 👋
 
 ## 🌠Coding Time
 > the projects I'm working on
